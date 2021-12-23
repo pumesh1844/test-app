@@ -9,7 +9,7 @@ li{
     margin:10px 0;
 }
 li .card:hover{
-    border:2px solid orange;
+    border:2px solid red;
 }
 ol{
     padding:0;
